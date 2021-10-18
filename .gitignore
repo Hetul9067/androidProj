@@ -1,0 +1,10 @@
+.git 
+_MACOSX
+**/build
+**/bin
+**/gradle
+**/gradlew
+**/gradlew.bat
+**/.classpath
+**/.idea
+**/gradle
