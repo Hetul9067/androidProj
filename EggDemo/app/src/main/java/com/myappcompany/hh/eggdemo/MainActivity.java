@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         timerTextView.setText("0:30");
         timerSeekBar.setProgress(30);
 
+
         timerSeekBar.setEnabled(true);
         countDownTimer.cancel();
         goButton.setText("GO!");

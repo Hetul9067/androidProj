@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
                 while(wrongAnswer == a+b){
                     wrongAnswer = rand.nextInt(41);
                 }
-                answers.add(rand.nextInt(41));
+                answers.add(wrongAnswer);
 
             }
 
